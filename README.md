@@ -1,6 +1,6 @@
 # Bank Telemarketing Prediction  
 
-This repository contains a machine learning project aimed at predicting whether a client will subscribe to a term deposit based on data from direct marketing campaigns of a banking institution. The project is based on a Kaggle competition dataset, and the marketing campaigns were conducted via phone calls. This was an course project of Machine Learning Practice at IIT Madras BS Degree.
+This repository contains a machine learning project aimed at predicting whether a client will subscribe to a term deposit based on data from direct marketing campaigns of a banking institution. The project is based on a Kaggle competition dataset, and the marketing campaigns were conducted via phone calls. This was a course project for Machine Learning Practice at IIT Madras BS Degree.
 
 ---
 
